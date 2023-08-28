@@ -1,0 +1,42 @@
+h5{
+  color: black;
+  display: inline-block;
+}
+a{
+  text-decoration:none;
+  color: white;
+}
+input{
+  display: inline-block;
+}
+h1{
+  color: red;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h2{
+  color:chartreuse;
+}
+
+p{
+  color: blueviolet;
+}
+
+.header-color{
+  background-color: #0D1B2A;
+  color: white;
+}
+.marpad-color{
+  background-color: #E0E1DD;
+  color: white;
+}
+.body-color{
+  background-color: #778DA9;
+  color: white;
+}
+.footer-color{
+  background-color: #415A77;
+  color: white;
+}

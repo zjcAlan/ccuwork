@@ -1,0 +1,31 @@
+.subtitle_cell {
+    width: 100px; /* 适当调整表格宽度 */
+    text-align: left;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+.subtitle_cell th {
+    border-bottom: 1px solid black; /* 添加底線樣式 */
+  }
+
+.space_height{
+    height: 25px;
+}
+
+.content_cell {
+    text-align: left;
+    border-collapse: collapse;
+    font-size: 16px;
+    width: 700px; /* 适当调整标题单元格宽度 */
+    display: -webkit-box;
+    text-align: left;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.icon {
+    height:27px;
+    width:24px;
+}
